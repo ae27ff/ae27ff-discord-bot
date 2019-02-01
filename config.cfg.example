@@ -3,6 +3,6 @@ privkey=YOUR_DISCORD_BOT_PRIVKEY_HERE
 admins=YOUR_DISCORD_ID_HERE
 
 [ae27ff]
-appid=YOUR_AE27FF_APPID_KEY_HERE
+appid=ae27ff-example-app-id-000-0000-000000000000
 appname=ae-Bot
 appver=0.1
