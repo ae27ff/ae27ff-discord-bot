@@ -1,5 +1,7 @@
 # ae27ff-discord-bot
-A python discord bot for ae27ff rankings in channel pins, inspired by [LsFonseca1/Ae27ff-Rankings](https://github.com/LsFonseca1/Ae27ff-Rankings)
+A python 3.5 discord bot for ae27ff rankings in channel pins, inspired by [LsFonseca1/Ae27ff-Rankings](https://github.com/LsFonseca1/Ae27ff-Rankings)
+
+requires [discord.py](https://github.com/Rapptz/discord.py)
 
 ## work in progress
 This bot is a work in progress and has some really sloppy code, and does not validate input or check for admin permissions at this time - use at your own risk.
